@@ -1,0 +1,11 @@
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.exe
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.deps.json
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.runtimeconfig.json
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.runtimeconfig.dev.json
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.dll
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\bin\Debug\netcoreapp3.0\Lab9.pdb
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.csprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.AssemblyInfo.cs
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.dll
+C:\Users\Aaron\Desktop\Important Files\GCProjects\Lab9\Lab9\obj\Debug\netcoreapp3.0\Lab9.pdb
