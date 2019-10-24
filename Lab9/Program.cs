@@ -43,8 +43,17 @@ namespace Lab9
                     Rerun();
                     break;
                 default:
-                    Console.WriteLine($"Student {userInput+1} is {studentNames[userInput]}.");
-                    MoreInfo(userInput);
+                    if (userInput <= studentNames.Count-1)
+                    {
+                        Console.WriteLine($"Student {userInput + 1} is {studentNames[userInput]}.");
+                        MoreInfo(userInput);
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Try again");
+                        AskForStudent();
+                    }
                     break;
             }
         }
